@@ -1,6 +1,7 @@
 CARLA Simulator (Binary Relese 0.8.4)
 =====================================
-[Demo](https://youtu.be/eKuQxochj_k)
+[Demo](https://youtu.be/eKuQxochj_k) 
+-------------
 This repository contains the Linux binary distribution of [CARLA](https://carla.org/), an open-source autonomous driving simulator built on Unreal Engine 4.18. It includes the precompiled simulator (`CarlaUE4`), the complete Python API (`PythonClient`), final project materials that rely on CARLA, and tooling for running the simulator locally or from a Docker container.
 
 Highlights
